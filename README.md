@@ -1,4 +1,4 @@
-<img align='right' alt="Person coding gif" src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif" height="250" width="320" />
+<img width="100%" alt="coding gif" src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B;I'm+lucia+ebele+%F0%9F%98%84;I'm+a+Software+Developer+%E2%9C%A8;Nice+to+meet+you+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
