@@ -16,7 +16,7 @@
 
 - ⚡ Fact: "Learning how to code has been a bliss experience and has found its way to becoming a hobby."
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yorsyboy&theme=nord&row=1&column=6" alt="iamstillcath" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamstillcath&theme=nord&row=1&column=6" alt="iamstillcath" /></a> </p>
 
 <h3 align="left"> Languages and Tools:<h3>
 <p> 
