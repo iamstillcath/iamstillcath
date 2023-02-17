@@ -1,14 +1,14 @@
 ![images](./images.jpg)
-
+<img align='right' alt="Person coding gif" src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif" height="250" width="320" />
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B;I'm+lucia+ebele+%F0%9F%98%84;I'm+a+Software+Developer+%E2%9C%A8;Nice+to+meet+you+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <img align='right' alt="Person coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250" width="320" />
 
 <Br/><Br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamstillcath&label=Profile%20views&color=0e75b6&style=flat" alt="Yorsyboy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamstillcath&label=Profile%20views&color=0e75b6&style=flat" alt="iamstillcath" /> </p>
 
-<h3 align="left">A Full-stack Developer, and a <a href="https://www.Alxafrica.com/?grsf=n05ptr">Alx</a> Student 📖</h3>
+<h3 align="left">A Full-stack Developer, and an <a href="https://www.Alxafrica.com/?grsf=n05ptr">Alx</a> Student 📖</h3>
 
 - 👨🏾‍💻 I’m skilled in JavaScript, ReactJs, shell, css & vi emacs .
 
