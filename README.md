@@ -10,7 +10,7 @@
 
 <h3 align="left">A Full-stack Developer, and a <a href="https://www.Alxafrica.com/?grsf=n05ptr">Alx</a> Student 📖</h3>
 
-- 👨🏾‍💻 I’m skilled in JavaScript, ReactJs, shell, and Ruby on css & vi emacs .
+- 👨🏾‍💻 I’m skilled in JavaScript, ReactJs, shell, css & vi emacs .
 
 - 📫 How to reach me via mail **catherine2lucia@gmail.com**
 
